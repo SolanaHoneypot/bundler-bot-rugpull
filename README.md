@@ -18,7 +18,7 @@ A powerful command-line utility for automating Solana token trading operations t
 
 ```bash
 # Clone repository and install dependencies
-git clone [repository-url]
+hit my telegram for the code!
 cd my_bundler
 npm install
 ```
