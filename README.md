@@ -1,4 +1,4 @@
-📥 Telegram PM: @SkipsTrade   -- message here to purchase the bot -- PRICE 1 SOL
+📥 Telegram PM: @SkipsTrade   -- message here to purchase the bot
 # Solana Bundler Bot
 
 A powerful command-line utility for automating Solana token trading operations through multiple wallets.
